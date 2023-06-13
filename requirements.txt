@@ -1,0 +1,5 @@
+gym==0.26.2
+imageio==2.31.1
+numpy==1.22.0
+stable_baselines3==1.8.0
+vizdoom==1.2.0
